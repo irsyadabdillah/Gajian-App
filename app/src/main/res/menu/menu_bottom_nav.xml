@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/attendance"
+        android:icon="@drawable/ic_calendar_check_line"
+        android:title="@string/absensi" />
+    <item
+        android:id="@+id/salary"
+        android:icon="@drawable/ic_coins_line"
+        android:title="@string/gaji" />
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_user_3_line"
+        android:title="@string/akun" />
+</menu>

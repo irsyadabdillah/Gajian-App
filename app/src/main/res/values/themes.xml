@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Gajian" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/primary</item>
+    </style>
+
+    <style name="Poppins_TextView_Theme"
+        parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/poppins_regular</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="Poppins_TextView_Theme2"
+        parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/poppins_medium</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>
+
